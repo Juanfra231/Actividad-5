@@ -1,3 +1,4 @@
-Juan Francisco Navarrete
-- njuanfra809@gmail.com # gmail
-- Juanfra231# nombre github
+
+| Nombre                   | Github      | Email                 |
+| ------------------------ | ----------- | --------------------- |
+| Juan Francisco Navarrete | @Juanfra231 | njuanfra809@gmail.com |
